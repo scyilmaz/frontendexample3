@@ -1,0 +1,34 @@
+body {
+    background-color: #ffb875;
+}
+.anabaslik {
+    color:rgb(8, 51, 114);
+}   
+.basliklar {
+    color:rgb(0, 0, 0);
+    margin-left: 480px;
+}
+.servis {
+    color:rgba(56, 0, 70, 0.356);
+    text-align: center;
+    margin-left: 5px;
+    font-size: 18px;
+    
+}
+.tarif {
+    background-color:#2b00e9;
+    border-radius: 5px; 
+    color:white;
+}
+.tarifdiv {
+    margin-left: 460px;
+    margin-top: 10px;
+}
+.end {
+    text-align:right;
+    margin-right: 50px;
+}
+.endfont {
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
